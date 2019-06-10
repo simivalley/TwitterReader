@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Tech",
+    "ScreenNameList": []
+  },
+  {
+    "Name": "Entertainment",
+    "ScreenNameList": []
+  },
+  {
+    "Name": "News",
+    "ScreenNameList": []
+  },
+  {
+    "Name": "Default",
+    "ScreenNameList": [
+      "AP",
+      "AzureWeekly",
+      "msdevUK",
+      "AzureCosmosDB",
+      "markrussinovich",
+      "AzureSupport",
+      "TwitterAPI",
+      "AzureFunctions",
+      "azurefriday",
+      "JamesMontemagno",
+      "ReutersUS",
+      "OpenAtMicrosoft",
+      "MSCloud",
+      "TheXamarinShow",
+      "DailyDotNetTips",
+      "ch9",
+      "googlenews",
+      "usopen",
+      "rogerfederer",
+      "prismlib",
+      "SQLServer",
+      "VisualStudio",
+      "MicrosoftIoT",
+      "dotnet",
+      "RottenTomatoes",
+      "Azure",
+      "xamarinhq"
+    ]
+  }
+]
